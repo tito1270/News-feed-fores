@@ -271,6 +271,16 @@
 		<url><![CDATA[https://www.forexfactory.com/calendar/570-us-nfib-small-business-index]]></url>
 	</event>
 	<event>
+		<title>President Trump Speaks</title>
+		<country>USD</country>
+		<date><![CDATA[06-10-2025]]></date>
+		<time><![CDATA[8:00pm]]></time>
+		<impact><![CDATA[Medium]]></impact>
+		<forecast />
+		<previous />
+		<url><![CDATA[https://www.forexfactory.com/calendar/645-us-president-trump-speaks]]></url>
+	</event>
+	<event>
 		<title>API Weekly Statistical Bulletin</title>
 		<country>USD</country>
 		<date><![CDATA[06-10-2025]]></date>

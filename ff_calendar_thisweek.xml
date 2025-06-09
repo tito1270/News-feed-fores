@@ -144,7 +144,7 @@
 		<title>New Loans</title>
 		<country>CNY</country>
 		<date><![CDATA[06-09-2025]]></date>
-		<time><![CDATA[9:30am]]></time>
+		<time><![CDATA[11:30am]]></time>
 		<impact><![CDATA[Medium]]></impact>
 		<forecast><![CDATA[890B]]></forecast>
 		<previous><![CDATA[280B]]></previous>
@@ -154,7 +154,7 @@
 		<title>M2 Money Supply y/y</title>
 		<country>CNY</country>
 		<date><![CDATA[06-09-2025]]></date>
-		<time><![CDATA[9:30am]]></time>
+		<time><![CDATA[11:30am]]></time>
 		<impact><![CDATA[Low]]></impact>
 		<forecast><![CDATA[8.1%]]></forecast>
 		<previous><![CDATA[8.0%]]></previous>

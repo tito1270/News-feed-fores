@@ -191,6 +191,16 @@
 		<url><![CDATA[https://www.forexfactory.com/calendar/323-au-nab-business-confidence]]></url>
 	</event>
 	<event>
+		<title>Prelim Machine Tool Orders y/y</title>
+		<country>JPY</country>
+		<date><![CDATA[06-10-2025]]></date>
+		<time><![CDATA[5:59am]]></time>
+		<impact><![CDATA[Low]]></impact>
+		<forecast />
+		<previous><![CDATA[7.7%]]></previous>
+		<url><![CDATA[https://www.forexfactory.com/calendar/321-jn-prelim-machine-tool-orders-yy]]></url>
+	</event>
+	<event>
 		<title>Average Earnings Index 3m/y</title>
 		<country>GBP</country>
 		<date><![CDATA[06-10-2025]]></date>
@@ -219,16 +229,6 @@
 		<forecast><![CDATA[4.6%]]></forecast>
 		<previous><![CDATA[4.5%]]></previous>
 		<url><![CDATA[https://www.forexfactory.com/calendar/58-uk-unemployment-rate]]></url>
-	</event>
-	<event>
-		<title>Prelim Machine Tool Orders y/y</title>
-		<country>JPY</country>
-		<date><![CDATA[06-10-2025]]></date>
-		<time><![CDATA[6:00am]]></time>
-		<impact><![CDATA[Low]]></impact>
-		<forecast />
-		<previous><![CDATA[7.7%]]></previous>
-		<url><![CDATA[https://www.forexfactory.com/calendar/321-jn-prelim-machine-tool-orders-yy]]></url>
 	</event>
 	<event>
 		<title>SECO Consumer Climate</title>

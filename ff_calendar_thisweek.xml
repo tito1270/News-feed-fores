@@ -394,7 +394,7 @@
 		<title>Federal Budget Balance</title>
 		<country>USD</country>
 		<date><![CDATA[06-11-2025]]></date>
-		<time><![CDATA[6:00pm]]></time>
+		<time><![CDATA[5:59pm]]></time>
 		<impact><![CDATA[Low]]></impact>
 		<forecast><![CDATA[-314.3B]]></forecast>
 		<previous><![CDATA[258.4B]]></previous>
@@ -599,6 +599,16 @@
 		<forecast><![CDATA[0.1%]]></forecast>
 		<previous><![CDATA[0.1%]]></previous>
 		<url><![CDATA[https://www.forexfactory.com/calendar/170-ge-final-cpi-mm]]></url>
+	</event>
+	<event>
+		<title>German WPI m/m</title>
+		<country>EUR</country>
+		<date><![CDATA[06-13-2025]]></date>
+		<time><![CDATA[6:00am]]></time>
+		<impact><![CDATA[Low]]></impact>
+		<forecast />
+		<previous />
+		<url><![CDATA[https://www.forexfactory.com/calendar/291-ge-wpi-mm]]></url>
 	</event>
 	<event>
 		<title>French Final CPI m/m</title>

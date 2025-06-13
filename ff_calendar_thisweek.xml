@@ -641,6 +641,26 @@
 		<url><![CDATA[https://www.forexfactory.com/calendar/425-uk-consumer-inflation-expectations]]></url>
 	</event>
 	<event>
+		<title>New Loans</title>
+		<country>CNY</country>
+		<date><![CDATA[06-13-2025]]></date>
+		<time><![CDATA[8:31am]]></time>
+		<impact><![CDATA[Medium]]></impact>
+		<forecast><![CDATA[890B]]></forecast>
+		<previous><![CDATA[280B]]></previous>
+		<url><![CDATA[https://www.forexfactory.com/calendar/477-ch-new-loans]]></url>
+	</event>
+	<event>
+		<title>M2 Money Supply y/y</title>
+		<country>CNY</country>
+		<date><![CDATA[06-13-2025]]></date>
+		<time><![CDATA[8:31am]]></time>
+		<impact><![CDATA[Low]]></impact>
+		<forecast><![CDATA[8.1%]]></forecast>
+		<previous><![CDATA[8.0%]]></previous>
+		<url><![CDATA[https://www.forexfactory.com/calendar/476-ch-m2-money-supply-yy]]></url>
+	</event>
+	<event>
 		<title>Industrial Production m/m</title>
 		<country>EUR</country>
 		<date><![CDATA[06-13-2025]]></date>
@@ -659,26 +679,6 @@
 		<forecast><![CDATA[18.2B]]></forecast>
 		<previous><![CDATA[27.9B]]></previous>
 		<url><![CDATA[https://www.forexfactory.com/calendar/120-ez-trade-balance]]></url>
-	</event>
-	<event>
-		<title>New Loans</title>
-		<country>CNY</country>
-		<date><![CDATA[06-13-2025]]></date>
-		<time><![CDATA[11:30am]]></time>
-		<impact><![CDATA[Medium]]></impact>
-		<forecast><![CDATA[890B]]></forecast>
-		<previous><![CDATA[280B]]></previous>
-		<url><![CDATA[https://www.forexfactory.com/calendar/477-ch-new-loans]]></url>
-	</event>
-	<event>
-		<title>M2 Money Supply y/y</title>
-		<country>CNY</country>
-		<date><![CDATA[06-13-2025]]></date>
-		<time><![CDATA[11:30am]]></time>
-		<impact><![CDATA[Low]]></impact>
-		<forecast><![CDATA[8.1%]]></forecast>
-		<previous><![CDATA[8.0%]]></previous>
-		<url><![CDATA[https://www.forexfactory.com/calendar/476-ch-m2-money-supply-yy]]></url>
 	</event>
 	<event>
 		<title>Capacity Utilization Rate</title>
